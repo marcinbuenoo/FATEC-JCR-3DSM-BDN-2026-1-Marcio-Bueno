@@ -2,9 +2,9 @@
 
 ## 👤 Aluno
 
-- Nome:
-- LinkedIn:
-- GitHub:
+- Nome: Márcio Roberto Bueno Júnior
+- LinkedIn: https://www.linkedin.com/in/marcio-roberto-bueno-junior-02a2a4248/
+- GitHub: https://github.com/marcinbuenoo
 
 ---
 
